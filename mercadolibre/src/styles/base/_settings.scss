@@ -1,0 +1,15 @@
+// Variables
+$main: #ffdb15;
+$secondary: #e7e7e7;
+$text: #333;
+$text_secondary: #666;
+$white: #fff;
+$blue: #3483fa;
+$green: #179b06;
+
+// Global
+body{
+    margin: 0;
+    background-color: $secondary;
+    font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}

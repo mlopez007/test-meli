@@ -1,0 +1,22 @@
+.header_container {
+    background-color: $main;
+    justify-content: center;
+    display: flex;
+    padding: 10px 0px;
+    img {
+        width: 50px;
+    }
+    .input-field {
+        width: 60%;
+        margin-left: 20px;
+        border: 0px;
+        padding: 1px 4px;
+    }
+    .icon{
+        font-size: 18px;
+    }
+    .button{
+        border: 0px;
+        cursor: pointer;
+    }
+}
